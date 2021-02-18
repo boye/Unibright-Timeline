@@ -1,0 +1,27 @@
+{
+  "title": {
+    "media": {
+      "url": "https://s3.eu-central-1.wasabisys.com/ubt/UBT-galxy.jpg"
+    },
+    "text": {
+      "headline": "The Future is Unibright",
+      "text": "<p>Follow Unibright's journey with this interactive timeline that includes all milestones.</p>"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://miro.medium.com/max/700/1*dG-Se2CclSVuQq0VwYvaEQ.png"
+      },
+      "start_date": {
+        "year": "2018",
+        "month": "05",
+        "day": "03"
+      },
+      "text": {
+        "headline": "Unibright crowd sale",
+        "text": "10 days after our crowd sale started, the last tokens were sold. We feel honoured and are aware of the great responsibility to set our vision alive — bringing blockchain technology to the enterprise world. We are all convinced (more than ever) we will be part of something big."
+      }
+    }
+  ]
+}
